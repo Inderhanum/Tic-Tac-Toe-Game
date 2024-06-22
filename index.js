@@ -17,7 +17,7 @@ const winPatterns=[
     [2,4,6],
 ];
 const resetGame=()=>{
-    tureO=true;
+    trueO=true;
     enableBoxes();
     msgContainer.classList.add("hide")
 }
